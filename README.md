@@ -19,7 +19,6 @@
   - [Setup](#setup)
   - [Install](#install)
   - [Usage](#usage)
-  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -89,10 +88,6 @@ Example command:
 ```sh
   rails server
 ```
-
-### Deployment
-
-You can deploy this project by using live server.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
