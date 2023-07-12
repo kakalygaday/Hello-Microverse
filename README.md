@@ -1,34 +1,13 @@
-# Hello Microverse Project
-<a name="readme-top"> Project is here</a>
+<a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
+<div align="center">
+  <img src="images/coder.png" alt="logo" width="140"  height="auto" />
+  <br/>
 
-Modify this file to match your project and remove sections that don't apply.
+  <h3><b>Microverse README Template</b></h3>
 
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
+</div>
 
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
-
-
-
-<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
@@ -36,29 +15,32 @@ After you're finished please remove all the comments and instructions!
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
   - [Prerequisites](#prerequisites)
+  - [Setup](#setup)
+  - [Install](#install)
   - [Usage](#usage)
-  - [Deployment](#triangular_flag_on_post-deployment)
+  - [Run tests](#run-tests)
+  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
 
 # 📖 [Hello Microverse] <a name="about-project"></a>
 
-
 **[Hello Microverse]** is created by HTML and CSS to be showed a green colored Hello Microverse Title.
+
 
 ## 🛠 Built With <a name="built-with"></a>
 Html and CSS
 
 
-<!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
@@ -68,14 +50,9 @@ Html and CSS
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
+
 
 To get a local copy up and running, follow these steps.
 
@@ -83,26 +60,23 @@ To get a local copy up and running, follow these steps.
 
 Code editor(VS), Web browser and Git.
 
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
 
 ### Setup
 
-Clone this repository to your desired folder: https://github.com/kakalygaday/Hello
+Clone this repository to your desired folder: https://github.com/kakalygaday/Hello-Microverse
 
-
+Example commands:
 
 ```sh
   cd my-folder
-  git clone git@github.com:kakalygaday/Hello.git
+  git clone git@github.com:myaccount/my-project.git
 ```
 
 ### Install
+
+Install this project with:
+
+Example command:
 
 ```sh
   cd my-project
@@ -114,7 +88,11 @@ Clone this repository to your desired folder: https://github.com/kakalygaday/Hel
 To run the project, execute the following command: 
 Open the file with your default brower or use live server extension
 
+Example command:
 
+```sh
+  rails server
+```
 
 ### Deployment
 
@@ -123,10 +101,8 @@ You can deploy this project by using live server.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
-
 
 👤 **Abdy**
 
@@ -134,14 +110,11 @@ You can deploy this project by using live server.
 
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
-
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Change the color of h1 tag]**
+> Describe 1 - 3 features you will add to the project.
 
+- [ ] **[Change the color of h1 tag]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -151,15 +124,8 @@ You can deploy this project by using live server.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
-
-
 
 If you like this project put a star and follow me for more.
 
@@ -173,14 +139,11 @@ I would like to thank for these extra busy days.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENCE) licensed.
+This project is [MIT](./LICENSE) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
