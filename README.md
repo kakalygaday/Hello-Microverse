@@ -29,11 +29,11 @@
 
 # 📖 [Hello Microverse] <a name="about-project"></a>
 
-**[Hello Microverse]** is created by HTML and CSS to be showed a green colored Hello Microverse Title.
+**[Hello Microverse]** is created by HTML and CSS to be showed a green colored "Hello-Microverse is first project on file!" Title.
 
 
 ## 🛠 Built With <a name="built-with"></a>
-Html and CSS
+Html and CSS.
 
 
 
@@ -47,7 +47,6 @@ Html and CSS
 
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
 
 To get a local copy up and running, follow these steps.
 
@@ -100,7 +99,11 @@ Example command:
 - GitHub: [@githubhandle](https://github.com/kakalygaday)
 
 
+
+## 🔭 Future Features <a name="future-features"></a>
+
 - [ ] **[Change the color of h1 tag]**
+- [ ] **[Cenerize the location of h1 tag]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -119,7 +122,7 @@ If you like this project put a star and follow me for more.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank for these extra busy days.
+I would like to express my heartfelt gratitude to my code reviewer and standup team for their invaluable support, guidance, and encouragement throughout this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
